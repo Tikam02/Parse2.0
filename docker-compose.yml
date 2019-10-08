@@ -1,0 +1,29 @@
+version: "2"
+services:
+# Node.js parse-server application image
+  app:
+    build: ./app
+    command: npm start  -- /parse/jsconfig.json
+    container_name: parse
+    volumes:
+    - ./app:/parse/
+    - /parse/node_modules
+    ports:
+    - "1337:1337"
+    links:
+    - mongo
+# MongoDB image 
+
+  mongo:
+    image: mongo
+    container_name: mongo-database
+    ports:
+    - "27017:27017"
+    volumes_from:
+    - mongodata
+# MongoDB image volume for persistence
+  mongodata:
+    image: mongo
+    volumes:
+    - ./data/db:/data/db
+    command: --break-mongo

@@ -1,0 +1,16 @@
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:07:55.257Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:08:47.520Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:08:52.121Z"}
+{"functionName":"hello","params":{"score":1337,"playerName":"Sean Plott","cheatMode":false},"level":"info","message":"Ran cloud function hello for user undefined with:\n  Input: {\"score\":1337,\"playerName\":\"Sean Plott\",\"cheatMode\":false}\n  Result: \"Hi\"","timestamp":"2019-10-08T17:11:47.181Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:50:37.886Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:50:56.569Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:51:06.362Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:52:02.552Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:52:18.588Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:52:49.314Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:52:58.535Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T17:53:29.332Z"}
+{"functionName":"hello","params":{"score":1337,"playerName":"Sean Plott","cheatMode":false},"level":"info","message":"Ran cloud function hello for user undefined with:\n  Input: {\"score\":1337,\"playerName\":\"Sean Plott\",\"cheatMode\":false}\n  Result: \"Hi\"","timestamp":"2019-10-08T17:54:16.746Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T18:15:48.968Z"}
+{"functionName":"hello","params":{"score":1337,"playerName":"Sean Plott","cheatMode":false},"level":"info","message":"Ran cloud function hello for user undefined with:\n  Input: {\"score\":1337,\"playerName\":\"Sean Plott\",\"cheatMode\":false}\n  Result: \"Hi\"","timestamp":"2019-10-08T18:16:02.955Z"}
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2019-10-08T18:56:08.105Z"}
